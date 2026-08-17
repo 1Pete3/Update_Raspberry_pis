@@ -132,7 +132,3 @@ The Discord webhook URL is effectively a secret — anyone with it can post to y
 - Additional playbooks for service management and configuration drift detection
 
 ---
-
-## Built By
-
-Pete — homelab automation project
